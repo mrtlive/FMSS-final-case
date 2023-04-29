@@ -15,6 +15,12 @@ The following technologies were used in the development of this app:
 - [React Router](https://reactrouter.com/)
 - [Tanstack React Query](https://tanstack.com/query/latest/)
 
+Screenshots
+
+![Screenshot 2023-04-30 at 01 55 27](https://user-images.githubusercontent.com/23610345/235327511-32330d1a-1e9c-4ef9-81ee-d9936f70d3f1.png)
+
+![Screenshot 2023-04-30 at 01 55 34](https://user-images.githubusercontent.com/23610345/235327514-23e8c8ca-8f26-48a7-9e34-a3e92b827e63.png)
+
 ## Getting Started
 
 To get started with Star Wars Starship Finder, you can follow these steps:
