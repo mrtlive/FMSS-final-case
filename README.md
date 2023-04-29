@@ -4,6 +4,8 @@
 
 Star Wars Starship Finder is a web application built using TypeScript and React. It allows users to search for starships from the Star Wars universe using the [SWAPI](https://swapi.dev/) API and display detailed information about each starship, such as its name, manufacturer, cargo capacity, and crew size.
 
+You can access this application via [Star Wars Space Ship Finder app](https://starwars-fmss.surge.sh/)
+
 ## Technologies Used
 
 The following technologies were used in the development of this app:
