@@ -1,6 +1,6 @@
 //get starships from swapi function with axios
 import axios from "axios";
-import { Starship, Starships } from "../types/Starships";
+import { Starships } from "../types/Starships";
 
 //get starships from swapi with react query
 export const getShips = async (page: number) => {

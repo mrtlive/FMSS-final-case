@@ -1,4 +1,4 @@
-import { Starship, Starships } from "../types/Starships";
+import { Starships } from "../types/Starships";
 
 function SingleStarship({ id, starship }: { id: string | undefined; starship: Starships }) {
   return (
